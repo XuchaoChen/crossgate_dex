@@ -14,7 +14,7 @@ export default function HomePage() {
   return (
     <div className="text-sm text-[var(--muted)]">
       正在前往商品库…{" "}
-      <a href="/search/" className="text-[var(--accent)] underline">
+      <a href="search/" className="text-[var(--accent)] underline">
         点此进入
       </a>
     </div>
